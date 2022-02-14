@@ -26,6 +26,7 @@
 		74C375B527BA3DE8008E5EF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74C375B727BA3DE8008E5EF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74C375BD27BA4162008E5EF7 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		74C375C027BAC70D008E5EF7 /* Lesson5_HW_ChainOfResponsibility.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lesson5_HW_ChainOfResponsibility.playground; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +66,7 @@
 				74C375AF27BA3DE8008E5EF7 /* Main.storyboard */,
 				74C375B227BA3DE8008E5EF7 /* Assets.xcassets */,
 				74C375B427BA3DE8008E5EF7 /* LaunchScreen.storyboard */,
+				74C375C027BAC70D008E5EF7 /* Lesson5_HW_ChainOfResponsibility.playground */,
 				74C375B727BA3DE8008E5EF7 /* Info.plist */,
 			);
 			path = "To do list";
