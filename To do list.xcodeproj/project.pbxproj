@@ -13,6 +13,7 @@
 		74C375B127BA3DE8008E5EF7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74C375AF27BA3DE8008E5EF7 /* Main.storyboard */; };
 		74C375B327BA3DE8008E5EF7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 74C375B227BA3DE8008E5EF7 /* Assets.xcassets */; };
 		74C375B627BA3DE8008E5EF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74C375B427BA3DE8008E5EF7 /* LaunchScreen.storyboard */; };
+		74C375BE27BA4162008E5EF7 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74C375BD27BA4162008E5EF7 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		74C375B227BA3DE8008E5EF7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		74C375B527BA3DE8008E5EF7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		74C375B727BA3DE8008E5EF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74C375BD27BA4162008E5EF7 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				74C375A927BA3DE8008E5EF7 /* AppDelegate.swift */,
 				74C375AB27BA3DE8008E5EF7 /* SceneDelegate.swift */,
 				74C375AD27BA3DE8008E5EF7 /* ViewController.swift */,
+				74C375BD27BA4162008E5EF7 /* Task.swift */,
 				74C375AF27BA3DE8008E5EF7 /* Main.storyboard */,
 				74C375B227BA3DE8008E5EF7 /* Assets.xcassets */,
 				74C375B427BA3DE8008E5EF7 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74C375BE27BA4162008E5EF7 /* Task.swift in Sources */,
 				74C375AE27BA3DE8008E5EF7 /* ViewController.swift in Sources */,
 				74C375AA27BA3DE8008E5EF7 /* AppDelegate.swift in Sources */,
 				74C375AC27BA3DE8008E5EF7 /* SceneDelegate.swift in Sources */,
